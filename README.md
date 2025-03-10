@@ -1,6 +1,8 @@
 # testproject
 
 A new Flutter project.
+\flutter\bin\cache was unexpected at this time.
+TERMINAL run time error
 
 ## Getting Started
 
